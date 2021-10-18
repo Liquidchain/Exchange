@@ -1,0 +1,21 @@
+{
+  "name": "liquidswap",
+  "timestamp": "2021-10-25T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "/images/coins/wxlc.png",
+  "keywords": ["liquidchain", "default"],
+  "tokens": [
+    {
+      "name": "Test USD",
+      "symbol": "XUSD",
+      "address": "0x4D199523f318137EEc5A2FD25e39D3AD277D4308",
+      "chainId": 5051,
+      "decimals": 18
+    }
+  ]
+}
